@@ -19,15 +19,15 @@ _~~la méthode que vous avez suivie pour le réaliser~~ et les résultats marqua
 
 ## Description synthétique du projet
 
-**Problématique :** 
+**Problématique : A Mettre en place** 
 
-**Hypothèse principale :**
+**Hypothèse principale : Après choix de la problèmathique**
 
-**Hypothèses secondaires :** 
+**Hypothèses secondaires : En fonction de si l'hypothèse principale ne suffit pas** 
 
 **Objectifs : Création d'une génération parfaite**
 
-**Critère(s) d'évaluation :**
+**Critère(s) d'évaluation : à Voir**
 
 ## Présentation structurée des résultats (A faire lorsque modèle fini)
 
