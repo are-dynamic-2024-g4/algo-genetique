@@ -8,9 +8,9 @@ _~~la méthode que vous avez suivie pour le réaliser et les résultats marquant
 
 **Liste des méthodes que nous allons suivre :**
 - Méthode 1 :
- - PyGames + un algo type IA
+  - PyGames + un algo type IA
 - Méthode 2 :
- - Une version simpliste similaire à Schelling avec Tkinter pour la représentation graphique.
+  - Une version simpliste similaire à Schelling avec Tkinter pour la représentation graphique.
 
 ## Genetic Algorithm #Résumé en anglais (à finaliser)
 
