@@ -2,13 +2,16 @@
 Prise de note de la semaine du 25/03 
 - Amélioration du code :
 	- Ajout de fonction (Système de crossover : Génération suivante etc... à expliquer)
+	- Vidéo évolutif du programme : A ajouter
 	
 - Amélioration de la page github :
 	- Mise en propre de certains points
 	- Ajout d'information 
 	- Idée de mettre en place des simulations + graphique (Ajouter plus tard)
 	
-- Recherche sur des sujets en lien avec l'évolution génétique et/ou prédateur vs être vivant
+- Recherche sur des sujets en lien avec l'évolution génétique et/ou prédateur vs être vivant => Idée finale : Virus - Humain
+
+
 
 - Idée :
 	  - Si code finaliser => Evolution du prédateur 
@@ -24,8 +27,9 @@ Liste des éléments à faire :
 	
   - Introduction :
 		- Explication de qu'est qu'un Algorithme Génétique : http://igm.univ-mlv.fr/~dr/XPOSE2013/tleroux_genetic_algorithm/fonctionnement.html
-		- Le sujet sur lequel nous allons l'impliquer
-		- Objectif de notre projet
+		- Le sujet sur lequel nous allons l'impliquer : Humain - Virus
+		- Objectif de notre projet : Evolution de l'humanité 
+			- Objectif Secondaire : Contrepartie - Evolution du Virus
 	
   - Faire la même introduction en anglais
 	
@@ -40,7 +44,7 @@ Liste des éléments à faire :
 		- Lien du WEBSITE (par GITHUB)
 		- Lien direct sur une page type blog => Référence à notre blog.md
 		
-
+à faire pour la semaine S3/S4 (18/03 ; 25/03)
     - Mise en ligne du README.md
     - Mise en ligne du code dans le GITHUB
     - Mise en ligne d'une vidéo explicatif du code
