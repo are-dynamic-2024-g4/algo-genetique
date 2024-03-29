@@ -1,0 +1,47 @@
+
+Prise de note de la semaine du 25/03 
+- Amélioration du code :
+	- Ajout de fonction (Système de crossover : Génération suivante etc... à expliquer)
+	
+- Amélioration de la page github :
+	- Mise en propre de certains points
+	- Ajout d'information 
+	- Idée de mettre en place des simulations + graphique (Ajouter plus tard)
+	
+- Recherche sur des sujets en lien avec l'évolution génétique et/ou prédateur vs être vivant
+
+- Idée :
+	  - Si code finaliser => Evolution du prédateur 
+  - Courbe : 
+	  - Temps d'évolution 
+	  - Evolution des caractéristiques 
+
+
+Liste des éléments à faire : 
+
+
+- ReadMe : 
+	
+  - Introduction :
+		- Explication de qu'est qu'un Algorithme Génétique
+		- Le sujet sur lequel nous allons l'impliquer
+		- Objectif de notre projet
+	
+  - Faire la même introduction en anglais
+	
+  - Présentation de l'équipe + Fac(UPMC) + Formation(SCFO)
+	
+  - Description du projet :
+		- Explication en + de l'objectif introniser plutôt
+		- Problématique que l'on étudie + 2nd problèmatique à mettre si Evolution(Prédateur)
+		- Explication détaillé de notre Objectif
+
+  - Source :
+		- Lien du WEBSITE (par GITHUB)
+		- Lien direct sur une page type blog => Référence à notre blog.md
+		
+
+    - Mise en ligne du README.md
+    - Mise en ligne du code dans le GITHUB
+    - Mise en ligne d'une vidéo explicatif du code
+    - Mise en ligne de la carte mentale + bloc note (Source, recherche etc...)
