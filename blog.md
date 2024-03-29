@@ -10,13 +10,10 @@
   - Création d'une carte mentale avec la répartition des idées (à refaire)
   - Travail sur le GITHUB avec la création de fichier et du port document
 
-- __Troisième Semaine (Semaine du 18/03) :__ à venir
+- __Troisième Semaine (Semaine du 18/03) :__ 
   - Evolution du programme
   - Recherche sur des domaines variés (Être vivant - prédateur)
-- __À faire__:
-  - Mise en place du README.md
-  - Mise en place du code dans le GITHUB  
-
+    
 - __Quatrième Semaine (Semaine du 25/03) :__ à venir
 
 - __Cinquième Semaine (Semaine du 01/04) :__ à venir
