@@ -1,29 +1,17 @@
-
-Prise de note de la semaine du 25/03 
-- Amélioration du code :
-	- Ajout de fonction (Système de crossover : Génération suivante etc... à expliquer)
-	- Vidéo évolutif du programme : A ajouter
-	
-- Amélioration de la page github :
-	- Mise en propre de certains points
-	- Ajout d'information 
-	- Idée de mettre en place des simulations + graphique (Ajouter plus tard)
-	
-- Recherche sur des sujets en lien avec l'évolution génétique et/ou prédateur vs être vivant => Idée finale : Virus - Humain
-
-
-
-- Idée :
-	  - Si code finaliser => Evolution du prédateur 
-  - Courbe : 
-	  - Temps d'évolution 
-	  - Evolution des caractéristiques 
-
+Prise de note de la semaine du 01/04 :
+- Code :
+	- A voir ce qu'on va faire aujourd'hui
+- Page GITHUB : 
+	- Objectif : Améliorer la page en elle même dû aux modifications non faites la semaine dernière
+- Mise en idée du plan du site
+...
 
 Liste des éléments à faire : 
+- Recherche : Appronfondir les recherches (pas encore fait de manière optimale) hésitation 
+- Modifier l'Index et mettre à jour le Readme
 
 
-- ReadMe : 
+- Modèle ReadMe : 
 	
   - Introduction :
 		- Explication de qu'est qu'un Algorithme Génétique : http://igm.univ-mlv.fr/~dr/XPOSE2013/tleroux_genetic_algorithm/fonctionnement.html
@@ -44,8 +32,15 @@ Liste des éléments à faire :
 		- Lien du WEBSITE (par GITHUB)
 		- Lien direct sur une page type blog => Référence à notre blog.md
 		
-à faire pour la semaine S3/S4 (18/03 ; 25/03)
+à faire pour la semaine S5 (01/04)
     - Mise en ligne du README.md
     - Mise en ligne du code dans le GITHUB
     - Mise en ligne d'une vidéo explicatif du code
     - Mise en ligne de la carte mentale + bloc note (Source, recherche etc...)
+
+
+- Idée :
+	  - Si code finaliser => Evolution du prédateur 
+  - Courbe : 
+	  - Temps d'évolution 
+	  - Evolution des caractéristiques 
