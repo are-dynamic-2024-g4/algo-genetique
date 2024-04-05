@@ -23,6 +23,8 @@
 	- Mise en propre de certains points
 	- Ajout d'information 
 	- Idée de mettre en place des simulations + graphique (Ajouter plus tard)
+   
+- Recherche sur des sujets en lien avec l'évolution génétique et/ou prédateur vs être vivant => Idée finale : Virus - Humain
 
 - __Cinquième Semaine (Semaine du 01/04) :__ à venir
 
