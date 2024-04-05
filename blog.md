@@ -18,7 +18,7 @@
 - Amélioration du code :
 	- Ajout de fonction (Système de crossover : Génération suivante etc... à expliquer)
 	- Vidéo évolutif du programme : A ajouter
- - 
+
 - Amélioration de la page github :
 	- Mise en propre de certains points
 	- Ajout d'information 
