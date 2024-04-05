@@ -14,7 +14,15 @@
   - Evolution du programme
   - Recherche sur des domaines variés (Être vivant - prédateur)
     
-- __Quatrième Semaine (Semaine du 25/03) :__ à venir
+- __Quatrième Semaine (Semaine du 25/03) :__
+- Amélioration du code :
+	- Ajout de fonction (Système de crossover : Génération suivante etc... à expliquer)
+	- Vidéo évolutif du programme : A ajouter
+ - 
+- Amélioration de la page github :
+	- Mise en propre de certains points
+	- Ajout d'information 
+	- Idée de mettre en place des simulations + graphique (Ajouter plus tard)
 
 - __Cinquième Semaine (Semaine du 01/04) :__ à venir
 
