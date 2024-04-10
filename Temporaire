@@ -1,41 +1,19 @@
 Prise de note de la semaine du 01/04 :
-- Code :
-	- A voir ce qu'on va faire aujourd'hui
+ - Code :
+  - Amélioration de la fonction permettant de renvoyer le temps de survie
 - Page GITHUB : 
-	- Objectif : Améliorer la page en elle même dû aux modifications non faites la semaine dernière
-- Mise en idée du plan du site
-...
+ - Mise en idée du plan du site
+ - Mise du plan pour le ReadMe
+ - Revoir l'index par rapport à la demande du sujet
 
 Liste des éléments à faire : 
 - Recherche : Appronfondir les recherches (pas encore fait de manière optimale) hésitation 
-- Modifier l'Index et mettre à jour le Readme
+- Modifier l'Index
 
 
-- Modèle ReadMe : 
-	
-  - Introduction :
-		- Explication de qu'est qu'un Algorithme Génétique : http://igm.univ-mlv.fr/~dr/XPOSE2013/tleroux_genetic_algorithm/fonctionnement.html
-		- Le sujet sur lequel nous allons l'impliquer : Humain - Virus
-		- Objectif de notre projet : Evolution de l'humanité 
-			- Objectif Secondaire : Contrepartie - Evolution du Virus
-	
-  - Faire la même introduction en anglais
-	
-  - Présentation de l'équipe + Fac(UPMC) + Formation(SCFO)
-	
-  - Description du projet :
-		- Explication en + de l'objectif introniser plutôt
-		- Problématique que l'on étudie + 2nd problèmatique à mettre si Evolution(Prédateur)
-		- Explication détaillé de notre Objectif
 
-  - Source :
-		- Lien du WEBSITE (par GITHUB)
-		- Lien direct sur une page type blog => Référence à notre blog.md
-		
-à faire pour la semaine S5 (01/04)
-    - Mise en ligne du README.md
-    - Mise en ligne du code dans le GITHUB
-    - Mise en ligne d'une vidéo explicatif du code
+à faire : 
+
     - Mise en ligne de la carte mentale + bloc note (Source, recherche etc...)
 
 
