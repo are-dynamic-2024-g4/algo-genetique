@@ -1,10 +1,10 @@
 # Algorithme Génétique 
 
    - Introduction :
-		- Explication de qu'est qu'un Algorithme Génétique : http://igm.univ-mlv.fr/~dr/XPOSE2013/tleroux_genetic_algorithm/fonctionnement.html
-		- Le sujet sur lequel nous allons l'impliquer : Lynx - Lièvre
-		 - Objectif de notre projet : Evolution du taux de survie de la lièvre face au Lynx
-		  - Objectif Secondaire : Contrepartie - Evolution du Lyx
+	- Explication de qu'est qu'un Algorithme Génétique : http://igm.univ-mlv.fr/~dr/XPOSE2013/tleroux_genetic_algorithm/fonctionnement.html
+	- Le sujet sur lequel nous allons l'impliquer : Lynx - Lièvre
+	- Objectif de notre projet : Evolution du taux de survie de la lièvre face au Lynx
+	- Objectif Secondaire : Contrepartie - Evolution du Lyx
 	
 ## English Version 
   - Faire la même introduction en anglais
