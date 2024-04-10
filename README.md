@@ -10,8 +10,15 @@
   - Faire la même introduction en anglais
 
 ## Présentation de l'équipe
-  
-| Francesca GIAMMARI | Nassim BAYOU | Menad ACHERIOU | Juba YAHIAOUI |
+
+<table>
+    <tr>
+        <td>Francesca GIAMMARI</td>
+        <td>Nassim BAYOU</td>
+        <td>Menad ACHERIOU</td>
+        <td>Juba YAHIAOUI</td>
+    </tr>
+</table>
 
 Étudiant à Sorbonne Universite : <a href="https://www.sorbonne-universite.fr/#Sciences%20&%20Ing%C3%A9nierie"> Sciences & Ingénierie </a> - Première année de Licence : <a href="https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/cycle-dintegration-l1/portail-sciences-formelles"> SCFO </a>
 
