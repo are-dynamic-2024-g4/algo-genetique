@@ -1,4 +1,4 @@
-#**Récapitulatif des semaines**
+# **Récapitulatif des semaines**
 
 ## __Première Semaine (Semaine du 4/03) :__
   -  Mise en place des éléments essentiels à notre github/site pour le programme en ARE : Algo génétique !
