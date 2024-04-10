@@ -16,7 +16,7 @@ _~~la méthode que vous avez suivie pour le réaliser et les résultats marquant
 
 ## Présentation de l'équipe
 
-| N. Bayou| F. Giammari | M. Acheraiou | J. Yahiaoui |
+| N. Bayou | F. Giammari | M. Acheraiou | J. Yahiaoui |
 
 ## Description synthétique du projet
 
@@ -40,4 +40,9 @@ _~~la méthode que vous avez suivie pour le réaliser et les résultats marquant
 
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> (Finalisation de la carte mentale)
 
+
 _Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**_
+## Source :
+
+Lien du WEBSITE (par GITHUB)
+Lien direct sur une page type blog => Référence à notre blog.md
