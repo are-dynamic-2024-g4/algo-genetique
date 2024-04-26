@@ -48,10 +48,13 @@ We will focus on the evolution of the survival rate of a population, specificall
 
 ## Description du projet
 
+Pour mener notre étude nous allons nous poser la question :
 
 **Problématique :** comment modéliser la sélection naturelle sur une population à l'aide d'un algorithme génétique?
 
-**Objectifs :** 
+**Objectifs :** Evolution du taux de survie des lièvres face au lynx
+
+Nous ferons varier plusieurs paramètres tels que la taille, la vitesse, l'intelligence, alimentation afin d'obtenir une génération de lièvres ayant de plus grandes chances de survie et étudier la sélection naturelle
 
 ## Lien vers le site web : <a href="https://are-dynamic-2024-g4.github.io/algo-genetique/"> C'est ici ! </a>
 
