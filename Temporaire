@@ -38,3 +38,64 @@ Critique du code/modèle (pour les futurs modifications)
 Tout le monde doit parler !!!
 Question - Réponse => Sujet
 Veille de la soutenance (Slide + Présentation du modèle) (02/05)
+
+
+Site Web : INDEX
+
+Introduction : 
+- Parler de l'algorithme génétique, de parler du sujet donc l'évolution génétique en fin de compte, faire une explication vite fait => image qui représente l'évolution génétique => Darwin !
+- Amener le sujet sur lequel on va l'aborder => La selection naturelle !
+
+Présentation de l'équipe : 
+- Chacun de nous
+- Notre classe/section
+- Nos mails universitaire
+
+Explication du sujet en appronfondis :
+- Expliquer les termes utiliser (Selection Naturelle, Evolution génétique,...)
+- Voir s'il y a un seuil critique ou non à notre théorème
+- des exemples
+- Le modèle qu'on va utiliser 
+- On peut finalement mettre ici comment marche notre selection naturelle et ensuite d'expliquer quel est le but de notre simulation et l'objectif qu'on souhaite obtenir
+
+Modèle :
+- Montrer notre modèle 
+- Lien du programme afin de renvoyer dessus
+- Une ou deux vidéos montrons notre programmation pour différents cas finalement (on peut avoir des mutations génétiques différentes !)
+
+Analyse critique : 
+
+On peut expliquer les différents facteurs utiliser, expliquer comment sa marche etc...
+
+Perpespective / Conclusion :
+
+Faire une conclusion à vous de voir ce qu'on dit dedans ou pas
+
+=> Renvoyer vers la page du blog (ce qu'on a fait par semaine) + notre pdf
+
+
+Diaporama : A faire en groupe
+
+Ce qu'il y aura sur notre diapo de préférence => Ce qui réfère à l'ordre de notre page web
+
+I. Le sujet
+II. Le modèle
+III. La simulation
+IV. Analyse critique
+V. Perspective
+VI. Conclusion
+
+On peut mettre simulation, courbes explicatifs etc...
+
+
+Blog :
+
+Completer le blog avec tout ce qu'on a fait depuis le début, reprendre les différents points que j'ai mis, vous pouvez modifier et en faire un texte, bien sûr vous pouvez réutiliser les informations que Menad a pu mettre sur le groupe, je pourrai faire tout ça mais il y a une note pour tlm et donc sur votre "participation" donc on va devoir faire le travail de manière à ce que tlm est les points
+
+Mettre le code : N'importe qui peut le faire 
+
+Les documents : N'importe qui peut le faire
+
+READ ME :
+
+Améliorer et faire ce que j'ai mis dedans ou bien voir les différents exemples d'anciens projets + maquette fait par un ancien prof !
