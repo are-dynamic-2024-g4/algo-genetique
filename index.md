@@ -16,7 +16,14 @@ _~~la méthode que vous avez suivie pour le réaliser et les résultats marquant
 
 ## Présentation de l'équipe
 
-| N. Bayou | F. Giammari | M. Acheraiou | J. Yahiaoui |
+<table>
+    <tr>
+        <td>Francesca GIAMMARI</td>
+        <td>Nassim BAYOU</td>
+        <td>Menad ACHERIOU</td>
+        <td>Juba YAHIAOUI</td>
+    </tr>
+</table>
 
 ## Description synthétique du projet
 
