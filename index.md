@@ -42,8 +42,7 @@ Dans ce processus, certains individus d'une population ont des caractéristiques
 </p>
 
 
-Imaginons une population d'ours bruns vivant dans une région où la neige est présente la majeure partie de l'année. Un jour, un ours blanc apparaît dans cette population à la suite d'une mutation génétique. Sa couleur blanche lui permet de se fondre dans le paysage enneigé, ce qui le rend moins visible pour les prédateurs et lui donne un avantage pour la chasse.
-
+Imaginons une population d'ours bruns vivant dans une région où la neige est présente la majeure partie de l'année. Un jour, un ours blanc apparaît dans cette population à la suite d'une mutation génétique.   Sa couleur blanche lui permet de se fondre dans le paysage enneigé, ce qui le rend moins visible pour les prédateurs et lui donne un avantage pour la chasse.
 Si cet ours blanc survit et se reproduit, il peut transmettre sa mutation génétique (et donc sa couleur blanche) à sa progéniture. Les oursons blancs auront également un avantage en termes de survie et de reproduction. Au fil du temps, si les conditions environnementales restent les mêmes, la fréquence de l'allèle pour la fourrure blanche augmentera dans la population d'ours. 
 
 C'est ainsi que la sélection naturelle peut conduire à l'évolution d'une espèce. Dans cet exemple, les ours bruns pourraient évoluer pour devenir une population d'ours blancs, mieux adaptés à leur environnement enneigé. C'est un processus similaire à celui qui a probablement conduit à l'évolution de l'ours polaire à partir d'ancêtres bruns.
