@@ -65,11 +65,9 @@ Finalement une nouvelle génération est créée à partir des animaux sélectio
 Nous analyserons les résultats pour comprendre les caractéristiques les plus cruciales pour la survie des lièvres.
 
 <p align="center">
-  <img width="500" src="images./Image du modèle.jpg">
+  <img width="800" src="images./Image du modèle.jpg">
 </p>
 <br>
-
-Lien vers le programme complet : <a href="https://github.com/ARE-dynamic-G2-2021/Percolation-Cafe/blob/gh-pages/perco_tkinter.py"> C'est ici ! </a>
 
 ## La Simulation du Modèle
 
@@ -85,6 +83,9 @@ Voici des vidéos représentant l'évolution des lièves face aux lynx :
 - Vidéo représentant les dernières minutes d'une simulation sur longue durée
 
    <video src="images./Fin.mp4" width="640" height="400" controls="" preload=""></video>
+
+- Lien vers le programme complet : <a href="https://github.com/are-dynamic-2024-g4/algo-genetique/blob/main/programme%20algo.py"> C'est ici ! </a>
+
 
 ## Analyse des résultats 
 
