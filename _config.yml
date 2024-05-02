@@ -1,20 +1,48 @@
-baseurl: "/type-theme"
-url: "https://are-dynamic-2024-g4.github.io/algo-genetique/"
-theme_settings:
-  title: Algorithme Génétique 
-  description: Modele python d'un algorithme génétique représentant la selection naturelle de Darwin
+theme: jekyll-theme-so-simple
 
-  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+skin: "/assets/css/skins/default.css"
+locale: France
+title: "Algorithme Génétique "
+description: "Modele python d'un algorithme génétique représentant la selection naturelle de Darwin"
+baseurl: https://are-dynamic-2024-g4.github.io/algo-genetique/blog.html
+url: https://are-dynamic-2024-g4.github.io/algo-genetique/
+logo: 
+date_format: "%B %-d, %Y"
+read_time: 
+words_per_minute: 
+mathjax:
+  enable: false 
+  combo:  tex-svg
+  tags: none
 
+
+liquid:
+  error_mode: strict
+
+permalink: /:categories/:title/
 markdown: kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: :compressed
-plugins: [jekyll-paginate]
-exclude:
-  - Gemfile
-  - Gemfile.lock
+feed:
+  path: atom.xml
+
+search_full_content: false 
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
 
 
--jekyll-remote-theme
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      share: true
+
+
+footer_links:
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
