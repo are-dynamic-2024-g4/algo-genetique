@@ -81,7 +81,7 @@ Voici des vidéos représentant l'évolution des lièves face aux lynx :
 
 ## Perspectives et Conclusion
 
-## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
+## Lien vers la page du blog : <a href="https://are-dynamic-2024-g4.github.io/algo-genetique/blog"> C'est ici !</a>
 
 ## Bibliographie :
 
