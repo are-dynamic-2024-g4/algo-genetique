@@ -1,18 +1,7 @@
 # Algorithme Génétique
 
  ## Présentation du Projet ARE24 
- 
-Notre projet en ARE24 - Dynamic dans lequel nous allons implanter un algorithme génétique en informatique afin de travailler sur une population _(pas encore trouvé)_ où nous allons étudié son évolution altéré par des mutations génétique et des prédateurs _(pas encore trouvé)_. 
 
-_~~la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus (pas encore).~~_
-
-**Liste des méthodes que nous allons suivre :**
-- Méthode 1 :
-  - PyGames + un algo type IA
-- Méthode 2 :
-  - Une version simpliste similaire à Schelling avec Tkinter pour la représentation graphique.
-
-## Genetic Algorithm #Résumé en anglais (à finaliser)
 
 ## Présentation de l'équipe
 
@@ -25,31 +14,27 @@ _~~la méthode que vous avez suivie pour le réaliser et les résultats marquant
     </tr>
 </table>
 
-## Description synthétique du projet
+## Sujet étudié 
 
-**Problématique : Comment appliquer un algorithme génétique en informatique sur une espèce ?** 
+## Représentation du Modèle 
 
-**Hypothèse principale : Application de l'algorithme de manière réussi et donc pouvoir voir l'évolution d'une espèce à l'aide de différent caractéristique et d'évoluer d'une manière positif face à un problème.**
+## La Simulation du Modèle
 
-**Hypothèses secondaires : Application impossible de l'algorithme et donc par conséquence ne pas pouvoir étudier et observer l'évolution d'une espèce** (Pas encore sûr de la deuxième hypothèse) 
+Voici des vidéos représentant l'évolution des lièves face aux lynx :
+ - Vidéo représentant les premières minutes de la simulation 
 
-**Objectifs : Création d'une génération parfaite**
+## Analyse des résultats 
 
-**Critère(s) d'évaluation : Temps de survie (à Voir)**
+## Analyse critique de notre Modèle
 
-## Présentation structurée des résultats (A faire lorsque modèle fini)
-
-~~Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).~~
+## Perspectives et Conclusion
 
 ## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
 
 ## Bibliographie :
 
-**Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> (Finalisation de la carte mentale)
+<a href="https://www.canva.com/design/DAGD96BfMX4/j1EUFjnG8ZxN9ZBf03KOMQ/view?utm_content=DAGD96BfMX4&utm_campaign=designshare&utm_medium=link&utm_source=editor"> Présentation PDF de notre projet</a>
+<a href="https://fr.wikipedia.org/wiki/Algorithme_g%C3%A9n%C3%A9tique#:~:text=Les%20algorithmes%20g%C3%A9n%C3%A9tiques%20appartiennent%20%C3%A0,r%C3%A9soudre%20en%20un%20temps%20raisonnable.">Wikipédia</a>
+<a href="https://inventwithpython.com/makinggames.pdf">PDF Pygames</a>
+<a href="https://www.youtube.com/@quietfart9591"> Source vidéo youtube</a>
 
-
-_Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**_
-## Source :
-
-Lien du WEBSITE (par GITHUB)
-Lien direct sur une page type blog => Référence à notre blog.md
