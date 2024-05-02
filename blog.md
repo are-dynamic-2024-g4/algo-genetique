@@ -58,3 +58,6 @@
      - Création de la diapo
  - Index:
      - Mise à jour de l'index.
+
+
+<a href="https://are-dynamic-2024-g4.github.io/algo-genetique/"> Site Web</a>
