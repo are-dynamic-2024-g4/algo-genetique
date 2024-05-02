@@ -25,7 +25,7 @@ Notre projet d’ARE Dynamic vise à explorer l’évolution des populations d�
 
 Notre modèle d'algorithme génétique simule la sélection naturelle en utilisant une population de lièvres et de lynx. On étudiera également les caractéristiques qui optimisent les chances de survie des lièvres dans un environnement où les lynx sont les prédateurs.
 
-Objectif : Modéliser la sélection naturelle avec un algorithme génétique et pouvoir déterminer comment les caractéristiques des lièvres affectent leur survie.
+**Objectif :** Modéliser la sélection naturelle avec un algorithme génétique et pouvoir déterminer comment les caractéristiques des lièvres affectent leur survie.
 
 On a utilisé différentes caractéristiques qui peuvent varier d'un animal à un autre :
 
@@ -43,13 +43,13 @@ Le temps critique indique le moment où les lièvres commencent à être en dang
 
 Chaque lièvre possède une durée de vie qui détermine combien de temps ils peuvent survivre dans leur environnement.
 
-Dans cet environnement :
+**Dans cet environnement :**
 La taille de l'environnement est fixe.
 On introduit ensuite des lièvres et des lynx, ainsi que de la nourriture, dans notre cas des carottes.
 Le temps s'écoule au fur et à mesure que la simulation progresse avec des les paramètres vus ci dessus comme la faim ou le temps critique qui affectent la survie des lièvres.
 
 
-Mécanisme de l'algorithme :
+**Mécanisme de l'algorithme :**
 
 Au début de la simulation nous commençons par créer une population initiale de lièvres avec des caractéristiques aléatoires.
 Les animaux se déplacent dans l'environnement en suivant des mouvements prédéfinis. Les lièvres tentent d'éviter les lynx, de trouver de la nourriture pour prolonger leur durée de vie et de survivre aussi longtemps de possible.
