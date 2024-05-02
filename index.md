@@ -2,9 +2,6 @@
 
 ## Présentation du Projet ARE24 
 Notre projet d’ARE Dynamic vise à explorer l’évolution des populations d’animaux, en mettant en œuvre un algorithme génétique. Nous nous concentrons sur deux espèces : le lièvre et le lynx. L’objectif est de comprendre comment le lièvre s’adapte face au lynx, en **observant leur temps de survie en fonction de caractéristiques aléatoires**.
-<p align="center">
-  <img width="500"  src="images./Darwin.png">
-</p>
 
 **L’algorithme génétique** simule le processus de **sélection naturelle**, où les individus les mieux adaptés ont plus de chances de survivre et de se reproduire. Nous espérons ainsi mieux appréhender la dynamique de ces populations et les mécanismes qui influencent leur évolution.
 
@@ -39,6 +36,10 @@ L'algorithme se répète avec la nouvelle génération, en sélectionnant, en cr
 - **Variabilité** : Les variations des traits qui entraîneront des taux de survie et de reproduction différents parmi la progéniture.
   
 Dans ce processus, certains individus d'une population ont des caractéristiques qui les rendent plus aptes à survivre et à se reproduire dans leur environnement spécifique. Ces individus ont donc plus de chances de transmettre ces traits avantageux à leurs descendants.
+
+<p align="center">
+  <img width="500"  src="images./Darwin.png">
+</p>
 
 Par exemple, si dans une population de lapins bruns habitant une région froide et enneigée, apparaît par mutation un lapin blanc, sa couleur lui permettra de passer inaperçu et d'échapper à ses prédateurs. S’il s’accouple et a des petits, il leur transmettra sa mutation génétique et avec elle la couleur blanche. Ses descendants auront eux aussi une plus grande chance de survie et d'avoir des petits à leur tour.
 Au fil du temps, ces traits avantageux deviennent plus courants dans la population, conduisant à une évolution des espèces. C'est ainsi que la sélection naturelle favorise la continuité  des formes de vie les plus adaptées à leur environnement.
