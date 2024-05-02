@@ -21,6 +21,10 @@ Notre projet d’ARE Dynamic vise à explorer l’évolution des populations d�
 
 ## Sujet étudié 
 
+**L’algorithme génétique** est un concept qui trouve son origine dans **la biologie**, plus précisément dans **le processus de l’évolution naturelle**. Il est utilisé dans de nombreux domaines et évoque les notions de **sélection**, de **reproduction** et de **mutation **pour optimiser une population d’individus.
+Dans notre cas, nous utilisons un algorithme génétique pour simuler **l’évolution d’une population de lièvres** face à des lynx, leurs prédateurs. L’objectif est de comprendre **comment les caractéristiques des lièvres affectent leur survie.**
+
+
 ## Représentation du Modèle 
 
 Notre modèle d'algorithme génétique simule la sélection naturelle en utilisant une population de lièvres et de lynx. On étudiera également les caractéristiques qui optimisent les chances de survie des lièvres dans un environnement où les lynx sont les prédateurs.
@@ -59,6 +63,13 @@ Les caractéristiques des lièvres sélectionnés sont combinées par croisement
 Finalement une nouvelle génération est créée à partir des animaux sélectionnés avec des caractéristiques améliorées pour une meilleure adaptation à l'environnement.
 
 Nous analyserons les résultats pour comprendre les caractéristiques les plus cruciales pour la survie des lièvres.
+
+<p align="center">
+  <img width="500" src="images./Image du modèle.jpg">
+</p>
+<br>
+
+Lien vers le programme complet : <a href="https://github.com/ARE-dynamic-G2-2021/Percolation-Cafe/blob/gh-pages/perco_tkinter.py"> C'est ici ! </a>
 
 ## La Simulation du Modèle
 
