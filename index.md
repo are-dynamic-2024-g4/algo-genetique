@@ -29,7 +29,7 @@ Dans l'algorithme génétique, une population de candidats est choisie afin d’
 - **La sélection** : Les individus sont sélectionnés en fonction de leur aptitude ou de leur capacité à résoudre le problème.
 - **Le croisement** : Les individus sélectionnés sont croisés pour créer une nouvelle génération. 
 - **La mutation** : Les nouveaux individus subissent des mutations aléatoires.
-- 
+  
 L'algorithme se répète avec la nouvelle génération, en sélectionnant, en croisant et en mutant jusqu'à ce qu'une solution satisfaisante soit trouvée ou qu'un certain nombre de générations soient passées.
 
 **La sélection naturelle** est un processus fondamental de **l'évolution**, proposé par **Charles Darwin**. Elle repose sur **trois principes** clés : 
@@ -37,7 +37,7 @@ L'algorithme se répète avec la nouvelle génération, en sélectionnant, en cr
 - **Hérédité** : La plupart des traits sont transmis des parents à la progéniture.
 - **Surproduction** : Il y a plus de descendants que ce que leur environnement peut supporter, ce qui entraîne une compétition¹.
 - **Variabilité** : Les variations des traits qui entraîneront des taux de survie et de reproduction différents parmi la progéniture.
-- 
+  
 Dans ce processus, certains individus d'une population ont des caractéristiques qui les rendent plus aptes à survivre et à se reproduire dans leur environnement spécifique. Ces individus ont donc plus de chances de transmettre ces traits avantageux à leurs descendants.
 
 Par exemple, si dans une population de lapins bruns habitant une région froide et enneigée, apparaît par mutation un lapin blanc, sa couleur lui permettra de passer inaperçu et d'échapper à ses prédateurs. S’il s’accouple et a des petits, il leur transmettra sa mutation génétique et avec elle la couleur blanche. Ses descendants auront eux aussi une plus grande chance de survie et d'avoir des petits à leur tour.
