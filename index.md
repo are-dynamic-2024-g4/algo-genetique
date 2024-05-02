@@ -21,9 +21,29 @@ Notre projet d’ARE Dynamic vise à explorer l’évolution des populations d�
 
 ## Sujet étudié 
 
-**L’algorithme génétique** est un concept qui trouve son origine dans **la biologie**, plus précisément dans **le processus de l’évolution naturelle**. Il est utilisé dans de nombreux domaines et évoque les notions de **sélection**, de **reproduction** et de **mutation **pour optimiser une population d’individus.
-Dans notre cas, nous utilisons un algorithme génétique pour simuler **l’évolution d’une population de lièvres** face à des lynx, leurs prédateurs. L’objectif est de comprendre **comment les caractéristiques des lièvres affectent leur survie.**
 
+**L'algorithme génétique** est une méthode de recherche heuristique inspirée par **le processus de sélection naturelle et la génétique**. Cette méthode est utilisée pour trouver **des solutions approximatives à des problèmes d'optimisation et de recherche**.
+
+Dans l'algorithme génétique, une population de candidats est choisie afin d’évolué vers une solution. Chaque candidat a un ensemble de propriétés qui peuvent être mutées et altérées. L'évolution se produit généralement de la manière suivante :
+
+- **La sélection** : Les individus sont sélectionnés en fonction de leur aptitude ou de leur capacité à résoudre le problème.
+- **Le croisement** : Les individus sélectionnés sont croisés pour créer une nouvelle génération. 
+- **La mutation** : Les nouveaux individus subissent des mutations aléatoires.
+- 
+L'algorithme se répète avec la nouvelle génération, en sélectionnant, en croisant et en mutant jusqu'à ce qu'une solution satisfaisante soit trouvée ou qu'un certain nombre de générations soient passées.
+
+**La sélection naturelle** est un processus fondamental de **l'évolution**, proposé par **Charles Darwin**. Elle repose sur **trois principes** clés : 
+
+- **Hérédité** : La plupart des traits sont transmis des parents à la progéniture.
+- **Surproduction** : Il y a plus de descendants que ce que leur environnement peut supporter, ce qui entraîne une compétition¹.
+- **Variabilité** : Les variations des traits qui entraîneront des taux de survie et de reproduction différents parmi la progéniture.
+- 
+Dans ce processus, certains individus d'une population ont des caractéristiques qui les rendent plus aptes à survivre et à se reproduire dans leur environnement spécifique. Ces individus ont donc plus de chances de transmettre ces traits avantageux à leurs descendants.
+
+Par exemple, si dans une population de lapins bruns habitant une région froide et enneigée, apparaît par mutation un lapin blanc, sa couleur lui permettra de passer inaperçu et d'échapper à ses prédateurs. S’il s’accouple et a des petits, il leur transmettra sa mutation génétique et avec elle la couleur blanche. Ses descendants auront eux aussi une plus grande chance de survie et d'avoir des petits à leur tour.
+Au fil du temps, ces traits avantageux deviennent plus courants dans la population, conduisant à une évolution des espèces. C'est ainsi que la sélection naturelle favorise la continuité  des formes de vie les plus adaptées à leur environnement.
+
+On s’est donc poser comme problématique : Comment appliquer un modèle génétique sur un programme informatique ?
 
 ## Représentation du Modèle 
 
