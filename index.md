@@ -1,7 +1,7 @@
 # Algorithme Génétique
 
 ## Présentation du Projet ARE24 
-Notre projet d’ARE Dynamic vise à explorer l’évolution des populations d’animaux, en mettant en œuvre un algorithme génétique. Nous nous concentrons sur deux espèces : le lièvre et le lynx. L’objectif est de comprendre comment ces animaux s’adaptent face à une menace, en observant leur temps de survie en fonction de caractéristiques aléatoires.
+Notre projet d’ARE Dynamic vise à explorer l’évolution des populations d’animaux, en mettant en œuvre un algorithme génétique. Nous nous concentrons sur deux espèces : le lièvre et le lynx. L’objectif est de comprendre comment la lièvre s’adapte face au lynx, en observant leur temps de survie en fonction de caractéristiques aléatoires.
 
 L’algorithme génétique simule le processus de sélection naturelle, où les individus les mieux adaptés ont plus de chances de survivre et de se reproduire. Nous espérons ainsi mieux appréhender la dynamique de ces populations et les mécanismes qui influencent leur évolution.
 
