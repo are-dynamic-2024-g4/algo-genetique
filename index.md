@@ -65,15 +65,15 @@ Nous analyserons les résultats pour comprendre les caractéristiques les plus c
 Voici des vidéos représentant l'évolution des lièves face aux lynx :
  - Vidéo représentant les premières minutes d'une simulation sur longue durée
    
-   <video src="./images./" width="640" height="400" controls="" preload=""></video>
+   <video src="images./Début.mp4" width="640" height="400" controls="" preload=""></video>
    
  - Vidéo représentant 1h de simulation sur longue durée
    
-   <video src="./images./" width="640" height="400" controls="" preload=""></video>
+   <video src="images./Middle.mp4" width="640" height="400" controls="" preload=""></video>
    
 - Vidéo représentant les dernières minutes d'une simulation sur longue durée
 
-   <video src="./images./" width="640" height="400" controls="" preload=""></video>
+   <video src="images./Fin.mp4" width="640" height="400" controls="" preload=""></video>
 
 ## Analyse des résultats 
 
