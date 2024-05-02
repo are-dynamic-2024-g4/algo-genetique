@@ -85,8 +85,7 @@ Voici des vidéos représentant l'évolution des lièves face aux lynx :
 
 ## Bibliographie :
 
-<a href="https://www.canva.com/design/DAGD96BfMX4/j1EUFjnG8ZxN9ZBf03KOMQ/view?utm_content=DAGD96BfMX4&utm_campaign=designshare&utm_medium=link&utm_source=editor"> Présentation PDF de notre projet</a>
-<a href="https://fr.wikipedia.org/wiki/Algorithme_g%C3%A9n%C3%A9tique#:~:text=Les%20algorithmes%20g%C3%A9n%C3%A9tiques%20appartiennent%20%C3%A0,r%C3%A9soudre%20en%20un%20temps%20raisonnable.">Wikipédia Algorithme Génétique</a>
-<a href="https://inventwithpython.com/makinggames.pdf">PDF Pygames</a>
-<a href="https://www.youtube.com/@quietfart9591"> Source vidéo youtube</a>
+Voici le lien permettant d'acceder à notre :<a href="https://www.canva.com/design/DAGD96BfMX4/j1EUFjnG8ZxN9ZBf03KOMQ/view?utm_content=DAGD96BfMX4&utm_campaign=designshare&utm_medium=link&utm_source=editor"> Présentation PDF de notre projet</a>
+Vous pouvez trouver ici le lien permettant de comprendre de manière accentué l' <a href="https://fr.wikipedia.org/wiki/Algorithme_g%C3%A9n%C3%A9tique#:~:text=Les%20algorithmes%20g%C3%A9n%C3%A9tiques%20appartiennent%20%C3%A0,r%C3%A9soudre%20en%20un%20temps%20raisonnable.">Algorithme Génétique</a>
+Voici l'une des sources ayant permis à la compréhension de <a href="https://inventwithpython.com/makinggames.pdf">Pygames</a> suivit de <a href="https://www.youtube.com/@quietfart9591"> Quiertfart</a> qui nous a permi de de comprendre en vidéo les différents points de pygames. 
 
