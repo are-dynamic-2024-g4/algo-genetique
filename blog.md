@@ -32,6 +32,16 @@
      - Mise en place du plan du ReadMe + de l'index
      - Changement de certains points (à Améliorer) 
 
-## Semaines des vacances (08/04 - 15/04) : à venir
-
-## __Sixième Semaine (Semaine du 22/04) :__ à venir 
+## Semaines des vacances (08/04 - 15/04) : 
+    -Code:
+      -Mise en place d'une interface graphique , désormais nos lapins sont représentés par des images de lapins , et nos lynx par des images de lynx
+      ce qui aide à la compréhension de ce qui se passe en plus d'un programme beaucoup plus plaisant visuellement , avec un arrière-plan représentant 
+      une forêt/champ peu importe.
+      
+##Semaines des vacances  (16/04 - 21/04):
+    -Code:
+      -Mise en place d'un  système de nourriture , tel que nos lapins pour augmenter leur durée de vie peuvent désormais manger des carottes
+      ce qui est analogue à la vraie vie (manger aide à vivre plus longtemps)
+      -Les carottes en plus de celles qui apparaissent au début de la génération (1 carotte pour 3 lapins au lancement) apparaissent avec le temps , 
+      avec une nouvelle carotte chaque 2 secondes , dont l'emplacement est au hasard
+      -Mise en place d'un système de faim
