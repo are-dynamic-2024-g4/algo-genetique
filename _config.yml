@@ -1,48 +1,4 @@
-theme: jekyll-theme-so-simple
-
-skin: "/assets/css/skins/default.css"
-locale: France
+theme: jekyll-theme-cayman
 title: "Algorithme Génétique "
 description: "Modele python d'un algorithme génétique représentant la selection naturelle de Darwin"
-baseurl: https://are-dynamic-2024-g4.github.io/algo-genetique/blog.html
-url: https://are-dynamic-2024-g4.github.io/algo-genetique/
-logo: 
-date_format: "%B %-d, %Y"
-read_time: 
-words_per_minute: 
-mathjax:
-  enable: false 
-  combo:  tex-svg
-  tags: none
 
-
-liquid:
-  error_mode: strict
-
-permalink: /:categories/:title/
-markdown: kramdown
-feed:
-  path: atom.xml
-
-search_full_content: false 
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-paginate
-
-
-defaults:
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      share: true
-
-
-footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
