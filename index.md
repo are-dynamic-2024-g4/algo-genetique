@@ -98,15 +98,15 @@ Nous analyserons les résultats pour comprendre les caractéristiques les plus c
 Voici des vidéos représentant l'évolution des lièves face aux lynx :
  - Vidéo représentant les premières minutes d'une simulation sur longue durée
    
-   <video src="images./Début.mp4" width="750" height="500" controls="" preload=""></video>
+   <video src="images./Début.mp4" width="600" height="500" controls="" preload=""></video>
    
  - Vidéo représentant 1h de simulation sur longue durée
    
-   <video src="images./Middle.mp4" width="750" height="500" controls="" preload=""></video>
+   <video src="images./Middle.mp4" width="600" height="500" controls="" preload=""></video>
    
 - Vidéo représentant les dernières minutes d'une simulation sur longue durée
 
-   <video src="images./Fin.mp4" width="750" height="500" controls="" preload=""></video>
+   <video src="images./Fin.mp4" width="600" height="500" controls="" preload=""></video>
 
 - Lien vers le programme complet : <a href="https://github.com/are-dynamic-2024-g4/algo-genetique/blob/main/programme%20algo.py"> C'est ici ! </a>
 
